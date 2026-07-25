@@ -1,4 +1,4 @@
-# JSPSH
+# HRSH
 Source code for TCSVT'26 paper ["Hub-Removal Sparse Hashing for Cross-Modal Retrieval"](https://ieeexplore.ieee.org/document/11622478)
 
 You may find our other works on CMH (Paper & Code):
@@ -15,7 +15,7 @@ Please refer to the provided [link](https://github.com/yxinwang/HSCH-TCSVT) to d
 Once you have prepared the data, you can easily execute the main_demo.m file in MATLAB.
 
 ## Citation
-If you find JSPSH useful in your research, please consider citing:
+If you find HRSH useful in your research, please consider citing:
 
 ```
 @article{hu2026hub,
